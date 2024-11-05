@@ -1,11 +1,11 @@
 [  {
     "kernelSource": {
-      "name": "MikasaNethunter",
-      "repo": "https://github.com/noophyy/mikasa_kernel_realme2_c1.git",
-      "branch": "Light",
-      "device": "mikasa"
+      "name": "android_kernel_oneplus_sm8550",
+      "repo": "https://github.com/OnePlusOSS/android_kernel_oneplus_sm8550.git",
+      "branch": "sm8550_u_14.0.0_oneplus11",
+      "device": "salami"
     },
-    "withKernelSU": false,
+    "withKernelSU": true,
     "toolchains": [
       {
         "repo": "https://android.googlesource.com/platform/prebuilts/gas/linux-x86",
